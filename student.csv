@@ -1,0 +1,13 @@
+StudentID,Name,Age,Gender,Marks
+101,Ali,20,Male,85
+102,Ahmed,21,Male,78
+103,Sara,NaN,Female,92
+104,Ayesha,19,Female,NaN
+105,Bilal,-5,Male,88
+106,Hamza,22,Male,500
+107,Fatima,20,female,81
+108,Zain,NaN,Male,75
+109,Noor,23,Female,90
+109,Noor,23,Female,90
+110,Hassan,21,M,84
+111,Sana,20,F,89
